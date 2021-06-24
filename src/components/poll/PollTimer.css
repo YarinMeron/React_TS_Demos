@@ -1,0 +1,8 @@
+.poll-timer__container {
+    display: flex;
+    position: relative;
+    left: 30%;
+    margin: 0.55rem;
+
+
+}
